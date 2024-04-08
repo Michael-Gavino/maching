@@ -1,1 +1,1 @@
-# maching
+# MACHINE LEARNING
